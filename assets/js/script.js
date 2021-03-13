@@ -9,7 +9,7 @@ var iconFeature = new ol.Feature({
   text: '<b>@reggarantai</b><br>---<br>Tendean Square<br><small>Jakarta Selatan</small>'
 });
 
-// Memeilih & menampilkan marker yang diinginkan
+// Memilih & menampilkan marker yang diinginkan
 // anchor adalah posisi marker terhadap koordinat
 // disini anchorXUnits & anchorYUnits menggunakan satuan pixel
 var iconStyle = new Style({
@@ -99,6 +99,6 @@ map.on('click', function (evt) {
 //     return feature;
 //   });
 //   if (feature) {
-//     window.open("https://regga.id/coding/map-marker-menggunakan-openlayers/");
+//     window.open("https://regga.id/coding/membuat-peta-dengan-custom-map-marker-menggunakan-openlayers/");
 //   }
 // });
