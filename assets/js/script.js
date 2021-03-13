@@ -99,6 +99,6 @@ map.on('click', function (evt) {
 //     return feature;
 //   });
 //   if (feature) {
-//     window.open("https://regga.id/coding/map-marker-menggunakan-openlayers-javascript-api/");
+//     window.open("https://regga.id/coding/map-marker-menggunakan-openlayers/");
 //   }
 // });
